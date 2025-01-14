@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2157C564-5D0D-44F1-9D15-3C720F3112A7}|ex03\\ex03.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2157C564-5D0D-44F1-9D15-3C720F3112A7}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E651B543-F556-4363-9BE2-CC6519D7751A}|ex04\\ex04.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E651B543-F556-4363-9BE2-CC6519D7751A}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A546BCF-BF96-4BCD-B33C-7F7CDF579AE7}|ex02\\ex02.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A546BCF-BF96-4BCD-B33C-7F7CDF579AE7}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2157C564-5D0D-44F1-9D15-3C720F3112A7}|ex03\\ex03.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2157C564-5D0D-44F1-9D15-3C720F3112A7}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19D7E4E5-1DBA-4AAD-AE00-DF9BEA1768CC}|ex01\\ex01.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,11 +32,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex04\\Program.cs*",
+              "RelativeToolTip": "ex04\\Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:13:09.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
               "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex03\\Program.cs",
               "RelativeToolTip": "ex03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T22:05:34.002Z",
               "EditorCaption": ""
@@ -45,14 +62,14 @@
               "RelativeDocumentMoniker": "ex02\\Program.cs",
               "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex02\\Program.cs",
               "RelativeToolTip": "ex02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T21:46:48.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
