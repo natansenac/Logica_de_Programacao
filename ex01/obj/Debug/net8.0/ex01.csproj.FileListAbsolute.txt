@@ -12,3 +12,4 @@ C:\Users\natan.vpedroso\source\repos\logica_programacao\ex01\obj\Debug\net8.0\re
 C:\Users\natan.vpedroso\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.pdb
 C:\Users\natan.vpedroso\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
 C:\Users\natan.vpedroso\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ref\ex01.dll
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.sourcelink.json
