@@ -55,8 +55,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T21:38:00.945Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -66,7 +65,7 @@
               "RelativeDocumentMoniker": "ex08\\Program.cs",
               "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex08\\Program.cs*",
               "RelativeToolTip": "ex08\\Program.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T23:00:51.883Z",
               "EditorCaption": ""
@@ -81,8 +80,7 @@
               "RelativeToolTip": "ex07\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T22:40:53.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T22:40:53.296Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "ex06\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:50:06.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T21:50:06.698Z"
             },
             {
               "$type": "Document",
