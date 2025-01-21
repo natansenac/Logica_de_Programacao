@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8yDCb6Lk2LM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex21\\ex21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natan.vpedroso\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -3,32 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3C904BF-C565-4143-BA6A-BB085B1A3DF9}|ex08\\ex08.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3C904BF-C565-4143-BA6A-BB085B1A3DF9}|ex08\\ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C732CF6-979C-4B0E-9F1D-865464ABF60D}|ex29\\ex29.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C732CF6-979C-4B0E-9F1D-865464ABF60D}|ex29\\ex29.csproj|solutionrelative:ex29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01C331DD-7466-4476-8DA8-33EBD8AEB367}|ex07\\ex07.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01C331DD-7466-4476-8DA8-33EBD8AEB367}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE30DF6-A518-4EC6-BA0D-CBF861939CFF}|ex28\\ex28.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE30DF6-A518-4EC6-BA0D-CBF861939CFF}|ex28\\ex28.csproj|solutionrelative:ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCD771E6-49D6-47FE-A36B-35342100C7B6}|ex06\\ex06.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCD771E6-49D6-47FE-A36B-35342100C7B6}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE8372D6-735B-4C38-AB89-5181E77A7752}|ex27\\ex27.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8372D6-735B-4C38-AB89-5181E77A7752}|ex27\\ex27.csproj|solutionrelative:ex27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3B1D79-98B7-4148-91BC-A95E7B935791}|ex26\\ex26.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3B1D79-98B7-4148-91BC-A95E7B935791}|ex26\\ex26.csproj|solutionrelative:ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6A721C-C1CD-4D00-A914-E99E45202B66}|ex22\\ex22.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A721C-C1CD-4D00-A914-E99E45202B66}|ex22\\ex22.csproj|solutionrelative:ex22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57CF742-6249-40C8-BC19-8D30EFFA37D1}|ex21\\ex21.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57CF742-6249-40C8-BC19-8D30EFFA37D1}|ex21\\ex21.csproj|solutionrelative:ex21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9EF2BF-E746-47F2-9BD8-95138D86685A}|ex23\\ex23.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9EF2BF-E746-47F2-9BD8-95138D86685A}|ex23\\ex23.csproj|solutionrelative:ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE845487-5EA0-44EF-9DC6-45041EEDC2FC}|ex24\\ex24.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE845487-5EA0-44EF-9DC6-45041EEDC2FC}|ex24\\ex24.csproj|solutionrelative:ex24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD2B3DE-FB08-4012-A074-E79E5AF3E119}|ex25\\ex25.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD2B3DE-FB08-4012-A074-E79E5AF3E119}|ex25\\ex25.csproj|solutionrelative:ex25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB46E33F-FEDF-4794-A975-A45DCFA1427F}|ex18\\ex18.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB46E33F-FEDF-4794-A975-A45DCFA1427F}|ex18\\ex18.csproj|solutionrelative:ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0E722-71C5-4B91-9742-6B52C8D82D7B}|ex17\\ex17.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0E722-71C5-4B91-9742-6B52C8D82D7B}|ex17\\ex17.csproj|solutionrelative:ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1003C7DF-DC3B-43C6-88A2-ECA1889525FC}|ex19\\ex19.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1003C7DF-DC3B-43C6-88A2-ECA1889525FC}|ex19\\ex19.csproj|solutionrelative:ex19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74D94684-278D-4340-B780-1CCEB382B9B9}|ex05\\ex05.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74D94684-278D-4340-B780-1CCEB382B9B9}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E651B543-F556-4363-9BE2-CC6519D7751A}|ex04\\ex04.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E651B543-F556-4363-9BE2-CC6519D7751A}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{898364B3-DBA2-4027-AC20-A71E2897D5C8}|ex20\\ex20.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898364B3-DBA2-4027-AC20-A71E2897D5C8}|ex20\\ex20.csproj|solutionrelative:ex20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F0DD20-6A1A-4E43-B11F-F093CBEA19A2}|ex12\\ex12.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F0DD20-6A1A-4E43-B11F-F093CBEA19A2}|ex12\\ex12.csproj|solutionrelative:ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC502B-B031-47F7-9D73-D8805DF854F8}|ex13a\\ex13a.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex13a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADC502B-B031-47F7-9D73-D8805DF854F8}|ex13a\\ex13a.csproj|solutionrelative:ex13a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D88CB21-E473-402E-87BC-947DBEA8A0CD}|ex14\\ex14.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D88CB21-E473-402E-87BC-947DBEA8A0CD}|ex14\\ex14.csproj|solutionrelative:ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F57D02-7598-4942-AB37-0E7AE30F95B1}|ex15\\ex15.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F57D02-7598-4942-AB37-0E7AE30F95B1}|ex15\\ex15.csproj|solutionrelative:ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117F04E5-45DA-4041-B279-953B923672C7}|ex16\\ex16.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117F04E5-45DA-4041-B279-953B923672C7}|ex16\\ex16.csproj|solutionrelative:ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB20178-870C-4B35-9224-8B8E3B8FC201}|ex11\\ex11.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB20178-870C-4B35-9224-8B8E3B8FC201}|ex11\\ex11.csproj|solutionrelative:ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE39E34-FE6D-4F58-90CB-470DD738255A}|ex10\\ex10.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE39E34-FE6D-4F58-90CB-470DD738255A}|ex10\\ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9102DEDD-0055-4C03-B6C7-2E018A5C1CFF}|ex09\\ex09.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9102DEDD-0055-4C03-B6C7-2E018A5C1CFF}|ex09\\ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A546BCF-BF96-4BCD-B33C-7F7CDF579AE7}|ex02\\ex02.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A546BCF-BF96-4BCD-B33C-7F7CDF579AE7}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2157C564-5D0D-44F1-9D15-3C720F3112A7}|ex03\\ex03.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2157C564-5D0D-44F1-9D15-3C720F3112A7}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A546BCF-BF96-4BCD-B33C-7F7CDF579AE7}|ex02\\ex02.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A546BCF-BF96-4BCD-B33C-7F7CDF579AE7}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E651B543-F556-4363-9BE2-CC6519D7751A}|ex04\\ex04.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E651B543-F556-4363-9BE2-CC6519D7751A}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD771E6-49D6-47FE-A36B-35342100C7B6}|ex06\\ex06.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD771E6-49D6-47FE-A36B-35342100C7B6}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C331DD-7466-4476-8DA8-33EBD8AEB367}|ex07\\ex07.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C331DD-7466-4476-8DA8-33EBD8AEB367}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C904BF-C565-4143-BA6A-BB085B1A3DF9}|ex08\\ex08.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C904BF-C565-4143-BA6A-BB085B1A3DF9}|ex08\\ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19D7E4E5-1DBA-4AAD-AE00-DF9BEA1768CC}|ex01\\ex01.csproj|c:\\users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,45 +130,318 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
               "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex05\\Program.cs",
               "RelativeToolTip": "ex05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T21:38:00.945Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex08\\Program.cs",
-              "RelativeDocumentMoniker": "ex08\\Program.cs",
-              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex08\\Program.cs*",
-              "RelativeToolTip": "ex08\\Program.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex29\\Program.cs",
+              "RelativeDocumentMoniker": "ex29\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex29\\Program.cs*",
+              "RelativeToolTip": "ex29\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T23:00:51.883Z",
+              "WhenOpened": "2025-01-21T00:44:21.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex28\\Program.cs",
+              "RelativeDocumentMoniker": "ex28\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex28\\Program.cs",
+              "RelativeToolTip": "ex28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:39:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex27\\Program.cs",
+              "RelativeDocumentMoniker": "ex27\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex27\\Program.cs",
+              "RelativeToolTip": "ex27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:38:36.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex26\\Program.cs",
+              "RelativeDocumentMoniker": "ex26\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex26\\Program.cs",
+              "RelativeToolTip": "ex26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:33:49.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex25\\Program.cs",
+              "RelativeDocumentMoniker": "ex25\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex25\\Program.cs",
+              "RelativeToolTip": "ex25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:24:38.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex24\\Program.cs",
+              "RelativeDocumentMoniker": "ex24\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex24\\Program.cs",
+              "RelativeToolTip": "ex24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:22:45.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex23\\Program.cs",
+              "RelativeDocumentMoniker": "ex23\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex23\\Program.cs",
+              "RelativeToolTip": "ex23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:19:45.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex22\\Program.cs",
+              "RelativeDocumentMoniker": "ex22\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex22\\Program.cs",
+              "RelativeToolTip": "ex22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:18:08.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex21\\Program.cs",
+              "RelativeDocumentMoniker": "ex21\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex21\\Program.cs",
+              "RelativeToolTip": "ex21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:16:22.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex20\\Program.cs",
+              "RelativeDocumentMoniker": "ex20\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex20\\Program.cs",
+              "RelativeToolTip": "ex20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:13:38.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex19\\Program.cs",
+              "RelativeDocumentMoniker": "ex19\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex19\\Program.cs",
+              "RelativeToolTip": "ex19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:08:42.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex18\\Program.cs",
+              "RelativeDocumentMoniker": "ex18\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex18\\Program.cs",
+              "RelativeToolTip": "ex18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:01:54.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex17\\Program.cs",
+              "RelativeDocumentMoniker": "ex17\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex17\\Program.cs",
+              "RelativeToolTip": "ex17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:26:31.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex16\\Program.cs",
+              "RelativeDocumentMoniker": "ex16\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex16\\Program.cs",
+              "RelativeToolTip": "ex16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:14:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex15\\Program.cs",
+              "RelativeDocumentMoniker": "ex15\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex15\\Program.cs",
+              "RelativeToolTip": "ex15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:56:49.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex14\\Program.cs",
+              "RelativeDocumentMoniker": "ex14\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex14\\Program.cs",
+              "RelativeToolTip": "ex14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:49:56.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex13a\\Program.cs",
+              "RelativeDocumentMoniker": "ex13a\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex13a\\Program.cs",
+              "RelativeToolTip": "ex13a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:44:29.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex12\\Program.cs",
+              "RelativeDocumentMoniker": "ex12\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex12\\Program.cs",
+              "RelativeToolTip": "ex12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:40:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex11\\Program.cs",
+              "RelativeDocumentMoniker": "ex11\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex11\\Program.cs",
+              "RelativeToolTip": "ex11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:37:04.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex10\\Program.cs",
+              "RelativeDocumentMoniker": "ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex10\\Program.cs",
+              "RelativeToolTip": "ex10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:52:57.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex09\\Program.cs",
+              "RelativeDocumentMoniker": "ex09\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex09\\Program.cs",
+              "RelativeToolTip": "ex09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:51:08.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex08\\Program.cs",
+              "RelativeDocumentMoniker": "ex08\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex08\\Program.cs",
+              "RelativeToolTip": "ex08\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T23:00:51.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex07\\Program.cs",
               "RelativeDocumentMoniker": "ex07\\Program.cs",
               "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex07\\Program.cs",
               "RelativeToolTip": "ex07\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T22:40:53.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex06\\Program.cs",
               "RelativeDocumentMoniker": "ex06\\Program.cs",
@@ -96,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
@@ -108,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -120,19 +477,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
               "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex02\\Program.cs",
               "RelativeToolTip": "ex02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T21:46:48.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\logica_programacao\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",

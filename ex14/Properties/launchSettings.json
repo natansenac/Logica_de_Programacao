@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ex14": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

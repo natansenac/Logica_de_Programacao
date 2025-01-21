@@ -1,0 +1,15 @@
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\bin\Debug\net8.0\ex13a.exe
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\bin\Debug\net8.0\ex13a.deps.json
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\bin\Debug\net8.0\ex13a.runtimeconfig.json
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\bin\Debug\net8.0\ex13a.dll
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\bin\Debug\net8.0\ex13a.pdb
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\ex13a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\ex13a.AssemblyInfoInputs.cache
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\ex13a.AssemblyInfo.cs
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\ex13a.csproj.CoreCompileInputs.cache
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\ex13a.sourcelink.json
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\ex13a.dll
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\refint\ex13a.dll
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\ex13a.pdb
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\ex13a.genruntimeconfig.cache
+C:\Users\natan.vpedroso\source\repos\logica_programacao\ex13a\obj\Debug\net8.0\ref\ex13a.dll
